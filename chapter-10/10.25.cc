@@ -1,0 +1,3 @@
+vector<string> books;
+set<string> readed;
+//....
